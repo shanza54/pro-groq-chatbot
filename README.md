@@ -11,7 +11,7 @@ A premium, portfolio-grade Conversational AI platform engineered with the **Grad
   * 🐍 Python Code Auditor (PEP 8 checking)
   * 🌐 Professional Translator (with nuance highlighting)
   * 📊 Data Analyst & 🎓 Academic Advisor presets
-* **Dynamic Control Panel:** Exposes model temperature sliders ($0.0 \rightarrow 2.0$) and max completion token bounds directly via the UI layer.
+* **Dynamic Control Panel:** Exposes model temperature sliders (0.0 to 2.0) and max completion token bounds directly via the UI layer.
 * **Bespoke Cyberpunk Theme:** Beautiful, production-ready custom CSS utilizing an Inter font variant, backdrop blur filters, dark-mode gradients, and sleek interactive element scales.
 * **State Management:** Defensive parsing pipelines to ensure robust multi-turn memory utilizing strict object tracking.
 
