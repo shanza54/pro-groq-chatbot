@@ -26,7 +26,7 @@ A premium, portfolio-grade Conversational AI platform engineered with the **Grad
 ## 📦 Production Installation & Local Setup
 
 ### 1. Clone the Ecosystem Workspace
-\`\`\`bash
-git clone https://github.com/shanza54/pro-groq-chatbot.git
+
+```bash
+git clone [https://github.com/shanza54/pro-groq-chatbot.git](https://github.com/shanza54/pro-groq-chatbot.git)
 cd pro-groq-chatbot
-\`\`\`
