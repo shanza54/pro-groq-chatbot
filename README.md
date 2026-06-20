@@ -1,5 +1,5 @@
 # ✦ Groq AI Persona Dashboard
-
+Live Demo: https://shanzaejaz-chat-bot.hf.space
 A premium, portfolio-grade Conversational AI platform engineered with the **Gradio 6.0** framework and optimized with **Groq Cloud's LPU inference engine**. The application interfaces directly with the **LLaMA 3.3 70B Versatile** model to provide streaming, context-aware responses across custom professional persona presets.
 
 ---
